@@ -229,9 +229,9 @@ MENU mmenu[] = {
   { "TV-B-Gone", 13}, // We jump to the region menu first
   { "Bluetooth", 16},
   { "WiFi", 12},
-  //{ "QR Codes", 18},
-  { "Settings", 2},
   { "Captive Portal", 20},
+  //{ "Other Item", 18},
+  { "Settings", 2},
 };
 
 void mmenu_drawmenu() {
