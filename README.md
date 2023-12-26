@@ -1,12 +1,12 @@
 
 # M5Stick-NEMO+
 This is a fork of the NEMO project, but with some customizations.
-1 - Addition of CAPTIVE PORTAL with social login and recording of credential logs.
-2 - Change the color of the project letters. Before it was green, and now it is white.
-3 - Change in the CLOCK display. Changing the font style, and adding the date and day of the week.
-4 - And soon more customizations.
-5 - ....
-6 - ....
+*  Addition of CAPTIVE PORTAL with social login and recording of credential logs.
+*  Change the color of the project letters. Before it was green, and now it is white.
+*  Change in the CLOCK display. Changing the font style, and adding the date and day of the week.
+*  And soon more customizations.
+*  ....
+*  ....
 and etc.
 
 Thank you so much Noah Axon.
