@@ -1193,11 +1193,11 @@ void aj_adv(){
 /// CREDITS ///
 void credits_setup(){
   DISP.fillScreen(WHITE);
-  DISP.qrcode("https://github.com/n0xa/m5stick-nemo", 145, 40, 100, 5);
+  DISP.qrcode("https://github.com/jaajr/m5stick-nemo_plus", 145, 40, 100, 5);
   DISP.setTextColor(BLACK, WHITE);
   DISP.setTextSize(MEDIUM_TEXT);
   DISP.setCursor(0, 25);
-  DISP.print(" M5-NEMO\n");
+  DISP.print(" M5-NEMO+\n");
   DISP.setTextSize(SMALL_TEXT);
   DISP.printf("  %s\n",buildver);
   DISP.println(" For M5Stack");
@@ -1210,7 +1210,8 @@ void credits_setup(){
 #if defined(CARDPUTER)
   DISP.println("  Cardputer");
 #endif
-  DISP.println("By Noah Axon");
+  DISP.println("Original By Noah Axon");
+  DISP.println("Custom By Jaajr");
   DISP.setCursor(155, 5);
   DISP.println("GitHub");
   DISP.setCursor(155, 25);
